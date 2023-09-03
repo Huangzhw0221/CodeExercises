@@ -1,7 +1,5 @@
 package com.jianzhioffer;
 
-import sun.misc.resources.Messages_ja;
-
 /**
  * @description:
  * @author: Huang Zhiwei
