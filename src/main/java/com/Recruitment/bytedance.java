@@ -1,7 +1,7 @@
 package com.Recruitment;
 
 /**
- * @description:
+ * @description: 字节跳动笔试题
  * @author: Huang Zhiwei
  * @time: 2023/8/27 10:05
  */
@@ -28,7 +28,6 @@ public class bytedance {
         }
         maxSimilarity = a * b;
 
-        // Try modifying s at each position
         for (int i = 0; i < s.length(); i++) {
             for (char c = 'a'; c <= 'z'; c++) {
                 if (c != s.charAt(i)) {

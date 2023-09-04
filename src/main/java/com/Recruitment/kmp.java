@@ -1,7 +1,7 @@
 package com.Recruitment;
 
 /**
- * @description:
+ * @description: KMP算法
  * @author: Huang Zhiwei
  * @time: 2023/8/13 20:26
  */
