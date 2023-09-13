@@ -3,7 +3,8 @@ package com.Recruitment;
 import java.util.Scanner;
 
 /**
- * @description:
+ * @description: 茄子科技
+ * 题目忘记了
  * @author: Huang Zhiwei
  * @time: 2023/8/30 19:54
  */
